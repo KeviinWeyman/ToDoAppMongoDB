@@ -1,5 +1,7 @@
 # To-Do List Application with MongoDB and Go
 
+This is one of my first projects using **MongoDB**. As I am learning new technologies by myself, I wanted to keep it simple and straightforward to focus on grasping the basics. I enjoy challenging myself and learning new things on my own, and I am dedicated to improving my skills over time. Although this project is simple, it is an important step in my journey of mastering MongoDB and Go.
+
 ## Technologies used in this project:
 
 -  ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
